@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PemToXml": {
+      "commandName": "Project",
+      "commandLineArgs": "-p public.pem"
+    }
+  }
+}

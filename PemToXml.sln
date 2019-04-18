@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28809.33
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PemToXml", "PemToXml\PemToXml.csproj", "{7BD9DFAE-2B61-4AA5-9C62-73D567FCCDF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PemToXml.Tests", "PemToXml.Tests\PemToXml.Tests.csproj", "{96834421-3539-4351-9C27-74FA95A107C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BD9DFAE-2B61-4AA5-9C62-73D567FCCDF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BD9DFAE-2B61-4AA5-9C62-73D567FCCDF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BD9DFAE-2B61-4AA5-9C62-73D567FCCDF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BD9DFAE-2B61-4AA5-9C62-73D567FCCDF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96834421-3539-4351-9C27-74FA95A107C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96834421-3539-4351-9C27-74FA95A107C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96834421-3539-4351-9C27-74FA95A107C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96834421-3539-4351-9C27-74FA95A107C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63E11BFA-98B7-4DB3-9011-764915F9A22E}
+	EndGlobalSection
+EndGlobal
